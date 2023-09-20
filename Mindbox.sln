@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes.Tests", "Shapes.Tests\Shapes.Tests.csproj", "{6F4BEFC7-552E-4C92-8DC9-16B3D7440A8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{81C1D655-277C-4A03-BD2C-5217DCF1718C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{6F4BEFC7-552E-4C92-8DC9-16B3D7440A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F4BEFC7-552E-4C92-8DC9-16B3D7440A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F4BEFC7-552E-4C92-8DC9-16B3D7440A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C1D655-277C-4A03-BD2C-5217DCF1718C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C1D655-277C-4A03-BD2C-5217DCF1718C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C1D655-277C-4A03-BD2C-5217DCF1718C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C1D655-277C-4A03-BD2C-5217DCF1718C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
