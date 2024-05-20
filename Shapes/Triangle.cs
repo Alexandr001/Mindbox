@@ -2,7 +2,7 @@
 
 namespace Shapes;
 
-public class Triangle : AbstractFigure
+public class Triangle : FigureBase
 {
 	private readonly uint _a; 
 	private readonly uint _b; 

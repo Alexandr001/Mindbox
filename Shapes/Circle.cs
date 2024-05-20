@@ -2,7 +2,7 @@
 
 namespace Shapes;
 
-public class Circle : AbstractFigure
+public class Circle : FigureBase
 {
 	private readonly uint _radius;
 
